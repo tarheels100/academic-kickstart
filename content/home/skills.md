@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
+  icon = "users"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Leadership"
+  description = "Experienced team project manager with proven mentoring and leadership skills."
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "scroll"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Communication and Publication"
+  description = "Strong record of effective communication through research presentations and scientific writing, with 16 peer-reviewed publications (and counting)."  
+
+#[[feature]]
+#  icon = "lightbulb"
+#  icon_pack = "fas"
+#  name = "Adaptable"
+#  description = "Adaptable to varying projects, mastering new skills as needed to complete an assignment."
+
+[[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "Research Experience"
+  description = "Extensive experience in instrument design and development, including optics, software, and electronics."
 
 +++

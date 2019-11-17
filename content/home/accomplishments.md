@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "The Journal of Physical Chemistry C"
+  organization_url = "http://dx.doi.org/10.1021/acs.jpcc.8b09184"
+  title = "Cover & Feature article"
+  url = "http://dx.doi.org/10.1021/acs.jpcc.8b09184"
+  certificate_url = ""
+  date_start = "2018-11-30"
+  date_end = ""
+  description = "A. P. Spencer, W. O. Hutson, E. Harel. Four-Dimensional Coherent Spectroscopy of Complex Molecular Systems in Solution. _J. Phys. Chem. C_ **2018**"
+
+[[item]]
+  organization = "Science"
+  organization_url = "http://dx.doi.org/10.1126/science.aan2842"
+  title = "Featured in Science: 4D electronic–Raman spectroscopy"
+  url = "http://dx.doi.org/10.1038/ncomms14732"
+  certificate_url = ""
+  date_start = "2017-06-30"
+  date_end = ""
+  description = "J. Goodknight, A. Aspuru-Guzik. Taking six-dimensional spectra in finite time. _Science_ **2017**"
+  
+[[item]]
+  organization = "University of North Carolina at Chapel Hill"
+  organization_url = ""
+  title = "Summer Undergraduate Research Fellowship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2008-07-01"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+#[[item]]
+#  organization = "Boy Scouts of America"
+#  organization_url = ""
+#  title = "Eagle Award"
+#  url = ""
+#  certificate_url = ""
+#  date_start = "2005-01-01"
+#  date_end = ""
+#  description = ""
 
 +++
